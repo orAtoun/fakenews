@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: darkgrey;
+  font-size: 65px;
+}
+
+.heading{
+  font-size: 10rem;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+
+span{
+  font-weight: bolder;
+}
+
+#reactgooglegraph-1{
+  left: 30%;
+  top: 45%;
+  position: absolute;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+.inputCheckNews{
+  position: fixed !important;
+  width: 70% !important;
+  left: 15%!important;
+  top: 40% !important;
+}
